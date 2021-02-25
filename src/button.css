@@ -1,0 +1,18 @@
+.my-button {
+    background-color: lightblue;
+    color: black;
+  border: none;
+  padding: 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 15px;
+  cursor: pointer;
+  outline: none;
+}
+
+.my-button:hover {
+  background-color: rgb(127, 213, 241);
+}
